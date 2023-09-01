@@ -15,18 +15,18 @@ Desenvolvimento Web Full Stack - Kenzie Academy Brasil - jan/2023 a jan/2024
 Brasas English Course: Curso completo (2021);
 
 ## LINGUAGENS 
-
+ <div>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ </div>
 
  <div>
 <a href="https://github.com/JoaoEdu1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEdu1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEdu1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEdu1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## INFOS DE CONTATO :
