@@ -26,7 +26,7 @@ Brasas English Course: Curso completo (2021);
 
  <div>
 <a href="https://github.com/JoaoEdu1">
-<img loading="lazy" height="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEdu1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEdu1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## INFOS DE CONTATO :
